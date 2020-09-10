@@ -1,2 +1,3 @@
-<center><h1>Deepak Mittal</h1></center>
-Read about my coursework
+<div align="center" style="background-color:powderblue;">
+  <h1>Deepak Mittal</h1>
+</div>
