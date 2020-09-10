@@ -1,3 +1,3 @@
-<div align="center" style="background-color:powderblue;">
-  <h1>Deepak Mittal</h1>
+<div align="center">
+  <h1 style="background-color:powderblue;">Deepak Mittal</h1>
 </div>
