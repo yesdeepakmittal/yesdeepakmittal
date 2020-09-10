@@ -25,5 +25,7 @@
   <p>🌐 Solvprob: <a href="https://blog.solvprob.in/author/yesdeepakmittal/">@yesdeepakmittal</a></p>
   <p>🌐 Vanijya Technology: <a href="https://vanijya.tech/">Website</a></p>
   <p>🌐 Microsoft LSA: <a href="https://studentambassadors.microsoft.com/en-US/profile/4723">Website</a></p>
+  <p>🌐 Portfolio: <a href="https://yesdeepakmittal.github.io/">https://yesdeepakmittal.github.io/</a></p>
+  
   
 </div>
