@@ -3,10 +3,7 @@
 </div>
 
 <div>
- <div align="left">
-<h2>My Github Repositories</h2>
-</div>
-<div align="right">
-<h2>My Github Repositories</h2>
-</div>
+
+<h2 align="left">My Github Repositories</h2>
+<h2 align="right">My Github Repositories</h2>
 </div>
