@@ -9,5 +9,5 @@
 </div>
 
 <div>
-  <h2>My Blogs📖📖</h2>
+  <h2>My Blogs<a href="https://blog.solvprob.in/author/yesdeepakmittal/">📖</a>📖</h2>
   </div>
