@@ -3,6 +3,6 @@
 </div>
 
 <div>
-<h2>My Github Repositories</h2>
+<h2 style="border:2px solid Tomato;">My Github Repositories</h2>
   <p>Hello, world!</p>
 </div>
