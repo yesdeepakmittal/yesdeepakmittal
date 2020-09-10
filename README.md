@@ -4,6 +4,5 @@
 
 <div>
 
-<h2 align="left">My Github Repositories</h2>
-<h2 align="right">My Github Repositories</h2>
+<h2 align="left">My Github Repositories</h2><h2 align="right">My Github Repositories</h2>
 </div>
