@@ -16,5 +16,11 @@
   
 <div>
   <h2>My Profiles</h2>
-  <p>🌐 Twitter: <a href="https://twitter.com/yesdeepakmittal">@yesdeepakmittal </a></p>
+  <p>🌐 GitHub: <a href="https://github.com/yesdeepakmittal/">@yesdeepakmittal</a></p>
+  <p>🌐 LinkedIn: <a href="https://www.linkedin.com/in/yesdeepakmittal/">@yesdeepakmittal</a></p>
+  <p>🌐 Twitter: <a href="https://twitter.com/yesdeepakmittal">@yesdeepakmittal</a></p>
+  <p>🌐 Kaggle: <a href="https://www.kaggle.com/yesdeepakmittal">@yesdeepakmittal</a></p>
+  <p>🌐 Medium: <a href="https://medium.com/@yesdeepakmittal">@yesdeepakmittal</a></p>
+  <p>🌐 Solvprob: <a href="https://blog.solvprob.in/author/yesdeepakmittal/">@yesdeepakmittal</a></p>
+  <p>🌐 Vanijya Technology: <a href="https://vanijya.tech/">Website</a></p>
 </div>
