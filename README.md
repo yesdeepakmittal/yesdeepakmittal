@@ -26,6 +26,9 @@
   <p>🌐 Vanijya Technology: <a href="https://vanijya.tech/">Website</a></p>
   <p>🌐 Microsoft LSA: <a href="https://studentambassadors.microsoft.com/en-US/profile/4723">Website</a></p>
   <p>🌐 Portfolio: <a href="https://yesdeepakmittal.github.io/">https://yesdeepakmittal.github.io/</a></p>
-  
-  
 </div>
+
+<div>
+  <h2>Featured</h2>
+  <p>🌐 <a href="http://www.bit.ac.in/eventsdetail/ece-department-has-organized-the-webinar-data-science-on-24-07-2020.aspx">Buddha Institute of Technology</a></p>
+  <p>🌐 <a href="https://studentambassadors.microsoft.com/en-US/profile/4723">Microsoft Learn Student Ambassador</a></p>
