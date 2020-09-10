@@ -3,6 +3,7 @@
 </div>
 
 <div>
-<h2 style="border:2px solid Tomato;">My Github Repositories</h2>
+<h2>My Github Repositories</h2>
+  <h3><a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/blob/master/README.md"target="_blank">Best Place Prediction</a></h3>
   <p>Hello, world!</p>
 </div>
