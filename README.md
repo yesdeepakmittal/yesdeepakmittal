@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Deepak Mittal</h1>
-  <p><a href="https://github.com/yesdeepakmittal"target="_blank">Deepak Mittal</a> <a href="https://github.com/yesdeepakmittal"target="_blank"><img src="https://img.shields.io/github/followers/yesdeepakmittal?style=social"></a></p>
+  <h1>Deepak Mittal<a href="https://github.com/yesdeepakmittal"target="_blank"><img src="https://img.shields.io/github/followers/yesdeepakmittal?style=social"></a></h1>
+  
 </div>
 
 <div>
