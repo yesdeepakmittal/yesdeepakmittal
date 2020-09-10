@@ -16,5 +16,5 @@
   
 <div>
   <h2>My Profiles</h2>
-  <p>$*$ Twitter:@yesdeepakmittal</p>
+  <p>🌐 Twitter: <a href="https://twitter.com/yesdeepakmittal">@yesdeepakmittal</a></p>
 </div>
