@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:powderblue;">
 <div align="center">
-  <h1 style="background-color:powderblue;">Deepak Mittal</h1>
+  <h1>Deepak Mittal</h1>
 </div>
 </body>
 </html>
