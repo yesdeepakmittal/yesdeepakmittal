@@ -16,5 +16,5 @@
   
 <div>
   <h2>My Profiles</h2>
-  <p>* Twitter:@yesdeepakmittal</p>
+  <p>$*$ Twitter:@yesdeepakmittal</p>
 </div>
