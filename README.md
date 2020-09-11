@@ -32,3 +32,13 @@
   <h2>Featured</h2>
   <p>🌐 <a href="http://www.bit.ac.in/eventsdetail/ece-department-has-organized-the-webinar-data-science-on-24-07-2020.aspx">Buddha Institute of Technology</a></p>
   <p>🌐 <a href="https://studentambassadors.microsoft.com/en-US/profile/4723">Microsoft Learn Student Ambassador</a></p>
+</div>
+
+<div>
+  <h2>Events Organised</h2>
+  <p>1️⃣ Introduction to Data Science(Online Workshop) - July 24, 2020</p>
+  <p>2️⃣ Python from Scratch(Online Workshop) - July 20, 2020</p>
+  <p>3️⃣ COVID19: Data Analysis using Python(Online Workshop) - July 6, 2020</p>
+  <p>4️⃣ Introduction to Python(Online Workshop) - May 4, 2020</p>
+  <p>    ...and helped hundreds of local and college students in learning write to code personally</p>
+</div>
