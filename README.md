@@ -40,5 +40,5 @@
   <p>2️⃣ Python from Scratch(Online Workshop) - July 20, 2020</p>
   <p>3️⃣ COVID19: Data Analysis using Python(Online Workshop) - July 6, 2020</p>
   <p>4️⃣ Introduction to Python(Online Workshop) - May 4, 2020</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;...and helped hundreds of local and college students in learning write to code personally</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...and helped hundreds of local and college students in learning write to code personally</p>
 </div>
