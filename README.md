@@ -4,8 +4,8 @@
 
 <div>
 <h2>My Github Repositories</h2>
-  <h3>1️⃣ <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/blob/master/README.md"target="_blank">Best Place Prediction</a></h3>
-  <p>Hello, world...<a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/blob/master/README.md"target="_blank">read more</a></p>
+  <h3>1️⃣ <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction"target="_blank">Best Place Prediction</a></h3>
+  <p>In this project, we will scrap the names of locations from...<a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/"target="_blank">read more</a></p>
 </div>
 
 <div>
