@@ -4,13 +4,17 @@
 
 <div>
 <h2>My Github Repositories</h2>
-  <h3>1️⃣ <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction"target="_blank">Best Place Prediction</a></h3>
+  <h3>1. <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction"target="_blank">Best Place Prediction</a></h3>
   <p>In this project, we will scrap the names of locations from...<a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/"target="_blank">read more</a></p>
 </div>
 
 <div>
+  <h2>My Kaggle notebooks</h2>
+    <h3>1. <a href="https://www.kaggle.com/yesdeepakmittal/business-sales-dashboard">Business Sales Dashboard</a></h3>
+  <p>A sales data analysis notebook made using python</p>
+<div>
   <h2>My Blogs<a href="https://blog.solvprob.in/author/yesdeepakmittal/">📖</a><a href="https://medium.com/@yesdeepakmittal">📖</a></h2>
-  <h3>1️⃣ <a href="https://blog.solvprob.in/machine-learning/09/2020/best-place-prediction-using-machine-learning/">Best Place Prediction using Machine Learning</a></h3>
+  <h3>1. <a href="https://blog.solvprob.in/machine-learning/09/2020/best-place-prediction-using-machine-learning/">Best Place Prediction using Machine Learning</a></h3>
   <p>Their is no doubt Machine Learning is awesome. Now we are starting with building a Machine Learning model to predict the best place to open a new shopping mall...<a href="https://blog.solvprob.in/machine-learning/09/2020/best-place-prediction-using-machine-learning/">read more</a></p>
   <h3><a href="https://github.com/yesdeepakmittal/yesdeepakmittal/blob/master/myblogs.md">Read More Blogs</a></h3>
   </div>
