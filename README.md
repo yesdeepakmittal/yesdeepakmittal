@@ -16,6 +16,8 @@
     <h3>1. <a href="https://www.kaggle.com/yesdeepakmittal/business-sales-dashboard">Business Sales Dashboard</a></h3>
   <p>A sales data analysis notebook made using python</p>
   <h3 align="right"><a href="https://www.kaggle.com/yesdeepakmittal>..more notebooks</a></h3>
+</div>
+    
 <div>
   <h2>My Blogs<a href="https://blog.solvprob.in/author/yesdeepakmittal/">📖</a><a href="https://medium.com/@yesdeepakmittal">📖</a></h2>
   <h3>1. <a href="https://blog.solvprob.in/machine-learning/09/2020/best-place-prediction-using-machine-learning/">Best Place Prediction using Machine Learning</a></h3>
