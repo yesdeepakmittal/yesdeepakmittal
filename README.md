@@ -23,7 +23,7 @@
   <h3>1. <a href="https://medium.com/@yesdeepakmittal/predicting-the-best-place-for-the-next-building-d45dbfed7dc9">Predicting the best place for the next building</a></h3>
   <h3>2. <a href="https://medium.com/vanijya-technology/why-it-is-superior-to-outsource-areas-where-you-are-not-doing-good-acb6aa6a3689">Why it is superior to outsource areas where you are not doing good?</a></h3>
   <h3>3. <a href="https://medium.com/vanijya-technology/one-of-the-problems-of-market-failure-1101d56e71ec">One of the problems of Market Failure</a></h3>
-  <h3 align="right"><a href="https://medium.com/@yesdeepakmittal">Read More Blogs</a></h3>
+  <h3 align="right"><a href="https://medium.com/@yesdeepakmittal">..more blogs</a></h3>
   </div>
   
 <div>
