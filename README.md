@@ -6,7 +6,7 @@
 <h2>My Github Repositories</h2>
   <h3>1. <a href="https://github.com/yesdeepakmittal/Business_Dashboard">Business Dashboard</a></h3>
   <p>A web-based business dashboard made using python</p>
-  <h3>2. <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction"target="_blank">Best Place Prediction</a></h3>
+  <h3>2. <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction">Best Place Prediction</a></h3>
   <p>In this project, we will scrap the names of locations from...<a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/"target="_blank">read more</a></p>
   <h3 align="right"><a href="https://github.com/yesdeepakmittal?tab=repositories">..more repositories</a></h3>
 </div>
@@ -15,7 +15,7 @@
   <h2>My Kaggle notebooks</h2>
     <h3>1. <a href="https://www.kaggle.com/yesdeepakmittal/business-sales-dashboard">Business Sales Dashboard</a></h3>
   <p>A sales data analysis notebook made using python</p>
-  <h3 align="right"><a href="https://www.kaggle.com/yesdeepakmittal>..more notebooks</a></h3>
+  <h3 align="right"><a href="https://www.kaggle.com/yesdeepakmittal">..more notebooks</a></h3>
 </div>
     
 <div>
