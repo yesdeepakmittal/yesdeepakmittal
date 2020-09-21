@@ -15,6 +15,8 @@
   <h2>My Kaggle notebooks</h2>
     <h3>1. <a href="https://www.kaggle.com/yesdeepakmittal/business-sales-dashboard">Business Sales Dashboard</a></h3>
   <p>A sales data analysis notebook made using python</p>
+  <h3>2. <a href="https://www.kaggle.com/yesdeepakmittal/covid19-analyzing-pandemic-in-india">COVID19: Analyzing Pandemic in India</a></h3>
+  <p>A COVID19 data analysis notebook made using python</p>
   <h3 align="right"><a href="https://www.kaggle.com/yesdeepakmittal">..more notebooks</a></h3>
 </div>
     
