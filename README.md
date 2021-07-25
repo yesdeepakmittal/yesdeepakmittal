@@ -8,6 +8,8 @@
   <p>A <a href="https://busidashboard.herokuapp.com/">web-based</a> business dashboard made using python</p>
   <h3>2. <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction">Best Place Prediction</a></h3>
   <p>In this project, we will scrap the names of locations from...<a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/"target="_blank">read more</a></p>
+  <h3>3. <a href=https://github.com/yesdeepakmittal/SupplyChainModel">Supply Chain Model</a></h3>
+  <p>Supply Chain Maturity model using Machine Learning, NLP, Data Science with real-time analysis</p>
   <h3 align="right"><a href="https://github.com/yesdeepakmittal?tab=repositories">..more repositories</a></h3>
 </div>
 
@@ -29,13 +31,13 @@
   </div>
   
 <div>
-  <h2>My Profiles</h2>
+  <h2>Important Links</h2>
   <p>🌐 GitHub: <a href="https://github.com/yesdeepakmittal/">@yesdeepakmittal</a></p>
   <p>🌐 LinkedIn: <a href="https://www.linkedin.com/in/yesdeepakmittal/">@yesdeepakmittal</a></p>
   <p>🌐 Twitter: <a href="https://twitter.com/yesdeepakmittal">@yesdeepakmittal</a></p>
   <p>🌐 Kaggle: <a href="https://www.kaggle.com/yesdeepakmittal">@yesdeepakmittal</a></p>
   <p>🌐 Medium: <a href="https://medium.com/@yesdeepakmittal">@yesdeepakmittal</a></p>
-  <p>🌐 Solvprob: <a href="https://blog.solvprob.in/author/yesdeepakmittal/">@yesdeepakmittal</a></p>
+  <p>🌐 Gists: <a href="https://gist.github.com/yesdeepakmittal">@yesdeepakmittal</a></p>
   <p>🌐 Vanijya Technology: <a href="https://vanijya.tech/">Website</a></p>
   <p>🌐 Microsoft LSA: <a href="https://studentambassadors.microsoft.com/en-US/profile/4723">Website</a></p>
   <p>🌐 Portfolio: <a href="https://yesdeepakmittal.github.io/">https://yesdeepakmittal.github.io/</a></p>
