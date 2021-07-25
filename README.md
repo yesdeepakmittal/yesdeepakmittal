@@ -8,7 +8,7 @@
   <p>A <a href="https://busidashboard.herokuapp.com/">web-based</a> business dashboard made using python</p>
   <h3>2. <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction">Best Place Prediction</a></h3>
   <p>In this project, we will scrap the names of locations from...<a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/"target="_blank">read more</a></p>
-  <h3>3. <a href=https://github.com/yesdeepakmittal/SupplyChainModel">Supply Chain Model</a></h3>
+  <h3>3. <a href="https://github.com/yesdeepakmittal/SupplyChainModel">Supply Chain Model</a></h3>
   <p>Supply Chain Maturity model using Machine Learning, NLP, Data Science with real-time analysis</p>
   <h3 align="right"><a href="https://github.com/yesdeepakmittal?tab=repositories">..more repositories</a></h3>
 </div>
