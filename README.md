@@ -50,6 +50,8 @@
 
 ### My Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [error: src refspec master does not match any while deploying app on heroku](https://stackoverflow.com/questions/68422765/error-src-refspec-master-does-not-match-any-while-deploying-app-on-heroku)
+- [Answer by Deepak Mittal for git commit error: pathspec 'commit' did not match any file(s) known to git](https://stackoverflow.com/questions/16951207/git-commit-error-pathspec-commit-did-not-match-any-files-known-to-git/68422649#68422649)
 <!-- STACKOVERFLOW:END -->
 
 ---
