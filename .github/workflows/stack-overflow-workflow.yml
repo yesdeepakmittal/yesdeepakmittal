@@ -16,5 +16,3 @@ jobs:
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/16470401"
 
-
-#Source-https://github.com/gautamkrishnar/blog-post-workflow
