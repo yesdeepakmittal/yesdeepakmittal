@@ -62,6 +62,8 @@
 
 ![programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yesdeepakmittal&layout=compact)
 
+![streak_stats](https://github-readme-streak-stats.herokuapp.com/?user=yesdeepakmittal)
+
 [website]: https://yesdeepakmittal.github.io
 [twitter]: https://twitter.com/yesdeepakmittal
 [linkedin]: https://linkedin.com/in/yesdeepakmittal
