@@ -61,7 +61,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yesdeepakmittal&show_icons=true&include_all_commits=true)
 
-![programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yesdeepakmittal&layout=compact&hide=jupyter notebook)
+![programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yesdeepakmittal&layout=compact&hide=jupyter%20notebook)
 
 ![streak_stats](https://github-readme-streak-stats.herokuapp.com/?user=yesdeepakmittal)
 
