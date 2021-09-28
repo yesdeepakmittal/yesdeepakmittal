@@ -65,6 +65,8 @@
 
 ![streak_stats](https://github-readme-streak-stats.herokuapp.com/?user=yesdeepakmittal)
 
+![activity_stats](https://activity-graph.herokuapp.com/graph?username=yesdeepakmittal&theme=github)
+
 [website]: https://yesdeepakmittal.github.io
 [twitter]: https://twitter.com/yesdeepakmittal
 [linkedin]: https://linkedin.com/in/yesdeepakmittal
