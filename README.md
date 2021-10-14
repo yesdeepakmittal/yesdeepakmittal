@@ -52,11 +52,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 
 ### My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [error: src refspec master does not match any solution](https://dev.to/yesdeepakmittal/error-src-refspec-master-does-not-match-any-solution-1687)
-- [Big data career](https://dev.to/yesdeepakmittal/big-data-career-1p9l)
-- [Kaggle dataset into heroku](https://dev.to/yesdeepakmittal/kaggle-dataset-into-heroku-1mn)
 - [Predicting the best place for the next building](https://medium.com/@yesdeepakmittal/predicting-the-best-place-for-the-next-building-d45dbfed7dc9?source=rss-1b22113e9cbd------2)
 - [Why it is superior to outsource areas where you are not doing good?](https://medium.com/vanijya-technology/why-it-is-superior-to-outsource-areas-where-you-are-not-doing-good-acb6aa6a3689?source=rss-1b22113e9cbd------2)
+- [One of the problems of Market Failure](https://medium.com/@yesdeepakmittal/one-of-the-problems-of-market-failure-1101d56e71ec?source=rss-1b22113e9cbd------2)
+- [How Microsoft Student Partner program escalated my achievements?](https://medium.com/@yesdeepakmittal/how-microsoft-student-partner-program-escalated-my-achievements-fc19aa25ea35?source=rss-1b22113e9cbd------2)
+- [Sir, don’t worry ML will decide the paper-pattern](https://medium.com/@yesdeepakmittal/sir-dont-worry-ml-will-decide-the-paper-pattern-17c4f62c739a?source=rss-1b22113e9cbd------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest StackOverflow Activity
