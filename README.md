@@ -6,6 +6,7 @@
 [<img align="left" alt="myKaggle" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="myGithub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 [<img align="left" alt="myBlogs" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="myLeetcode" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
 
 <br />
 
@@ -85,3 +86,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 [kaggle]: https://www.kaggle.com/yesdeepakmittal
 [github]: https://github.com/yesdeepakmittal/
 [medium]: https://medium.com/@yesdeepakmittal
+[leetcode]: https://leetcode.com/yesdeepakmittal/
