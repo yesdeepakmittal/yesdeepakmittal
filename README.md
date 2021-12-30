@@ -62,7 +62,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 
 ### My Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [What is the time complexity for appending an element to a list in Python?](https://stackoverflow.com/questions/70529063/what-is-the-time-complexity-for-appending-an-element-to-a-list-in-python)
+- [What is the time complexity for appending an element to a list? [closed]](https://stackoverflow.com/questions/70529063/what-is-the-time-complexity-for-appending-an-element-to-a-list)
 - [error: src refspec master does not match any while deploying app on heroku](https://stackoverflow.com/questions/68422765/error-src-refspec-master-does-not-match-any-while-deploying-app-on-heroku)
 - [Answer by Deepak Mittal for git commit error: pathspec &#39;commit&#39; did not match any file&lpar;s&rpar; known to git](https://stackoverflow.com/questions/16951207/git-commit-error-pathspec-commit-did-not-match-any-files-known-to-git/68422649#68422649)
 <!-- STACKOVERFLOW:END -->
