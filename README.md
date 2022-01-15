@@ -50,8 +50,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 - [🏭Business Sales Dashboard](https://github.com/yesdeepakmittal/Business_Dashboard)
 
 ---
-<!--
-### My Latest Blogs  -->
+<details>
+  <summary>Latest Blogs</summary>
+  
 <!-- BLOG-POST-LIST:START -->
 - [error: src refspec master does not match any solution](https://dev.to/yesdeepakmittal/error-src-refspec-master-does-not-match-any-solution-1687)
 - [Big data career](https://dev.to/yesdeepakmittal/big-data-career-1p9l)
@@ -59,8 +60,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 - [Predicting the best place for the next building](https://medium.com/@yesdeepakmittal/predicting-the-best-place-for-the-next-building-d45dbfed7dc9?source=rss-1b22113e9cbd------2)
 - [Why it is superior to outsource areas where you are not doing good?](https://medium.com/vanijya-technology/why-it-is-superior-to-outsource-areas-where-you-are-not-doing-good-acb6aa6a3689?source=rss-1b22113e9cbd------2)
 <!-- BLOG-POST-LIST:END -->
-<!--
-### My Latest StackOverflow Activity
+  
+</details>
+  
+<!-- ### My Latest StackOverflow Activity -->
+<details>
+  <summary>StackOverflow Activity</summary>
+  
 <!-- STACKOVERFLOW:START -->
 - [Time Complexity of for loop if we are just skipping the iteration using continue](https://stackoverflow.com/questions/70681725/time-complexity-of-for-loop-if-we-are-just-skipping-the-iteration-using-continue)
 - [What is the time complexity for appending an element to a list? [closed]](https://stackoverflow.com/questions/70529063/what-is-the-time-complexity-for-appending-an-element-to-a-list)
@@ -68,18 +74,20 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 - [Answer by Deepak Mittal for git commit error: pathspec &#39;commit&#39; did not match any file&lpar;s&rpar; known to git](https://stackoverflow.com/questions/16951207/git-commit-error-pathspec-commit-did-not-match-any-files-known-to-git/68422649#68422649)
 <!-- STACKOVERFLOW:END -->
 
----
+</details>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yesdeepakmittal&show_icons=true&include_all_commits=true)
 
-![programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yesdeepakmittal&layout=compact&hide=jupyter%20notebook)
+<img src="https://github-readme-stats.vercel.app/api?username=yesdeepakmittal&show_icons=true&include_all_commits=true" width="500" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesdeepakmittal&layout=compact&hide=jupyter%20notebook" width="400" height="200"/>
 
-![streak_stats](https://github-readme-streak-stats.herokuapp.com/?user=yesdeepakmittal)
+<!-- ![streak_stats](https://github-readme-streak-stats.herokuapp.com/?user=yesdeepakmittal) -->
 
 <details>	
   <summary><b>GitHub Activity</b></summary>
   <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=yesdeepakmittal&theme=github" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yesdeepakmittal&theme=github" width="500" height="300"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesdeepakmittal&theme=dark" width="400" height="300"/>
+ 
 </details>
 
 [website]: https://yesdeepakmittal.github.io
