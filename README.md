@@ -50,18 +50,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 - [🏭Business Sales Dashboard](https://github.com/yesdeepakmittal/Business_Dashboard)
 
 ---
-
-### My Latest Blogs
-<!-- BLOG-POST-LIST:START -->
+<!--
+### My Latest Blogs  -->
+<!-- BLOG-POST-LIST:START --><!--
 - [error: src refspec master does not match any solution](https://dev.to/yesdeepakmittal/error-src-refspec-master-does-not-match-any-solution-1687)
 - [Big data career](https://dev.to/yesdeepakmittal/big-data-career-1p9l)
 - [Kaggle dataset into heroku](https://dev.to/yesdeepakmittal/kaggle-dataset-into-heroku-1mn)
 - [Predicting the best place for the next building](https://medium.com/@yesdeepakmittal/predicting-the-best-place-for-the-next-building-d45dbfed7dc9?source=rss-1b22113e9cbd------2)
 - [Why it is superior to outsource areas where you are not doing good?](https://medium.com/vanijya-technology/why-it-is-superior-to-outsource-areas-where-you-are-not-doing-good-acb6aa6a3689?source=rss-1b22113e9cbd------2)
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 ### My Latest StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:START --> <!--
 - [Time Complexity of for loop if we are just skipping the iteration using continue](https://stackoverflow.com/questions/70681725/time-complexity-of-for-loop-if-we-are-just-skipping-the-iteration-using-continue)
 - [What is the time complexity for appending an element to a list? [closed]](https://stackoverflow.com/questions/70529063/what-is-the-time-complexity-for-appending-an-element-to-a-list)
 - [error: src refspec master does not match any while deploying app on heroku](https://stackoverflow.com/questions/68422765/error-src-refspec-master-does-not-match-any-while-deploying-app-on-heroku)
