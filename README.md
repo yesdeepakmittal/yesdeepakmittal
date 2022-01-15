@@ -52,7 +52,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 ---
 <!--
 ### My Latest Blogs  -->
-<!-- BLOG-POST-LIST:START --><!--
+<!-- BLOG-POST-LIST:START -->
 - [error: src refspec master does not match any solution](https://dev.to/yesdeepakmittal/error-src-refspec-master-does-not-match-any-solution-1687)
 - [Big data career](https://dev.to/yesdeepakmittal/big-data-career-1p9l)
 - [Kaggle dataset into heroku](https://dev.to/yesdeepakmittal/kaggle-dataset-into-heroku-1mn)
