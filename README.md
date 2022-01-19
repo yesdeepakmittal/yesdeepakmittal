@@ -14,7 +14,7 @@
 
 ### I'm a Developer and a passionate self-taught Data Scientist.
 - 🗣 I'm currently learning Natural Language Processing.
-- 🤑 I love to analyze Financial Data and Social Media Data
+- 😻 I love Data and People equally. 
 - 🏡 I am currently Working From Home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 💬 Feel free to reach out on Twitter [@yesdeepakmittal][twitter]!
 
