@@ -16,7 +16,7 @@
 - 🗣 I'm currently learning Natural Language Processing.
 - 😻 I love Data and People equally. 
 - 🏡 I am currently Working From Home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🍎 I am a research-oriented person who loves to solve mathematics without any reason
+- 🍎 I am a research-oriented person who loves to solve mathematics
 - 💬 Feel free to reach out on Twitter [@yesdeepakmittal][twitter]!
 
 ---
