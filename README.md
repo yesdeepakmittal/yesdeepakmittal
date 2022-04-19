@@ -49,6 +49,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 ### My Projects
 - [✈Supply Chain Model using Machine Learning](https://github.com/yesdeepakmittal/SupplyChainModel)
 - [🏭Business Sales Dashboard](https://github.com/yesdeepakmittal/Business_Dashboard)
+- [😷COVID19 Data Application](https://share.streamlit.io/yesdeepakmittal/covid19-pandemic-in-india)
 
 ---
 
