@@ -14,7 +14,7 @@
 ---
 
 ### I'm a Developer and a passionate self-taught Data Scientist.
-- 🗣 I'm currently learning Natural Language Processing.
+- 🗣 I'm currently learning Microservices in Python.
 - 😻 I love Data and People equally. 
 - 🏡 I am currently Working From Home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🍎 I am a research-oriented person who loves to solve mathematics
