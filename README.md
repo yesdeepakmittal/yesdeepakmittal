@@ -50,7 +50,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 ### My Projects
 - [✈Supply Chain Model using Machine Learning](https://github.com/yesdeepakmittal/SupplyChainModel) \[Python, Dash, MySQL]
 - [🏭Business Sales Dashboard](https://github.com/yesdeepakmittal/Business_Dashboard) \[Python, Dash]
-- [😷COVID19 Data Application](https://github.com/yesdeepakmittal/COVID19-Pandemic-in-India) \[Python, Streamlit,Docker,GitHub Actions]
+- [Image Classification using CNN](https://www.kaggle.com/code/yesdeepakmittal/cnn-vs-ann-apparel-classification-with-mlops) \[Python, Computer Vision]
 
 ---
 
