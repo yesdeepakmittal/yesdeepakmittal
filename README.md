@@ -10,9 +10,9 @@
 
 ### I'm a Developer and build Data Science Products.
 - 🗣 I'm currently learning Natural Language Processing.
-- 😻 I love Data and People equally. 
-- 🏡 I am currently Working From Home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🍎 I am a research-oriented person who loves to solve mathematics
+- 😻 Experienced Software Developer and NLP Developer
+- 🏡 Experimenting with GPT & LLM models at Home
+- 🍎 Research-oriented person who loves to solve mathematics
 
 ---
 
@@ -33,7 +33,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 
 ### My Projects
 - [✈Sentiment Classification using BERT](https://github.com/yesdeepakmittal/Sentiment-Classification-using-BERT)
-- [🏭Textual Document Classification using OCR & BERT](https://github.com/yesdeepakmittal/document-classification-using-bert)
+- [🏭Textual Document Classification with OCR, FastAPI, Docker and BERT](https://github.com/yesdeepakmittal/document-classification-using-bert)
 - [Image Classification using CNN](https://www.kaggle.com/code/yesdeepakmittal/cnn-vs-ann-apparel-classification-with-mlops)
 
 ---
