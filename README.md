@@ -1,4 +1,4 @@
-## Hi there, I'm [Deepak][website]! 
+## Hello there, I'm [Deepak][linkedin]! 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [<img align="left" alt="myLinkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -9,10 +9,9 @@
 ---
 
 ### I'm a Developer and build Data Science Products.
-- 🗣 I'm currently learning Natural Language Processing.
-- 😻 Experienced Software Developer and NLP Developer
-- 🏡 Experimenting with GPT & LLM models at Home
-- 🍎 Research-oriented person who loves to solve mathematics
+- 🗣 I'm currently researching Generative AI.
+- 😻 Experienced Software Developer and NLP Engineer
+- 🍎 Research-oriented person who loves to solve mathematics.
 
 ---
 
